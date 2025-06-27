@@ -37,9 +37,3 @@ Bu proje, müşteri deneyimi üzerine oluşturulmuş bir veri kümesi kullanıla
 
 
 
-
-
-
-
-
-
