@@ -31,9 +31,3 @@ Bu proje, müşteri deneyimi üzerine oluşturulmuş bir veri kümesi kullanıla
 ├── Customer_Experience_Dataset.csv         # Veri dosyası
 ├── customer_experience_analysis.ipynb      # Analiz dosyası
 └── README.md                               # Proje açıklama dosyası
-
-
-
-
-
-
